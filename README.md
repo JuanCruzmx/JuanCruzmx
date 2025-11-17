@@ -9,7 +9,7 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 ## 🧰 Tecnologías y herramientas
 
 * 🐍 Python
-* ![LaTex Logo](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LaTeX-Dark.svg)
+* <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LaTeX-Dark.svg" alt='LaTeX Logo' width='50' height='50'>
 * 🪟 Tkinter
 * 🧮 Git & GitHub
 * 🐧 Linux
