@@ -31,5 +31,3 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 ---
 
 Gracias por visitar mi perfil 👋 ¡Siempre estoy aprendiendo y construyendo algo nuevo!
-
-
