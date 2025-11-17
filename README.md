@@ -1,4 +1,4 @@
-# 💻 **¡Hola! Soy Juan Cruz Osorio**
+# 💻 **¡Hola! Soy Juan Cruz**
 
 Soy estudiante del **Instituto Politécnico Nacional (IPN)** en el área de ingeniería. Trabajo principalmente con **Python** y utilizo **LaTeX** para crear documentación y reportes técnicos. Me interesa el desarrollo de software y la creación de proyectos que integren programación con conceptos científicos.
 
