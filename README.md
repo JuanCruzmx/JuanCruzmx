@@ -8,7 +8,7 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 
 ## 🧰 Tecnologías y herramientas
 
-<img src='https://skillicons.dev/icons?i=github,git,python,latex,linux'/>
+<img src='https://skillicons.dev/icons?i=github,git,py,latex,linux,vim'/>
 
 ---
 
