@@ -1,4 +1,4 @@
-# 💻 **¡Hola! Soy Juan Cruz**
+# **¡Hola! Soy Juan Cruz**
 
 Soy estudiante del **Instituto Politécnico Nacional (IPN)** en la carrera de **Ingeniería en Comunidaciones y Electronica**. Trabajo principalmente con **Python** y utilizo **LaTeX** para crear documentación y reportes técnicos. Me interesa el desarrollo de software y la creación de proyectos que integren programación con conceptos científicos.
 
@@ -6,7 +6,7 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <div align='center'>
 <img src='https://skillicons.dev/icons?i=github,git,py,c,latex,linux,vim'/>
@@ -14,7 +14,7 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 
 ---
 
-## 🎯 Intereses
+## Intereses
 
 * Desarrollo de software de ingeniería
 * Interfaces gráficas con Python (Tkinter)
@@ -22,7 +22,7 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 📧 **Correo:** [juancruzosorio.mx@gmail.com](mailto:juancruzosorio.mx@gmail.com)
 
