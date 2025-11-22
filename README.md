@@ -14,13 +14,6 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 
 ---
 
-## Estadisticas de Github
-
-<div align='center'>
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanCruzmx&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruzmx&layout=compact&theme=tokyonight&hide_border=true)
-<\div>
-
 ## 🎯 Intereses
 
 * Desarrollo de software de ingeniería
