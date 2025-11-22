@@ -1,6 +1,6 @@
 # **¡Hola! Soy Juan Cruz**
 
-Soy estudiante de **Ingeniería en Comunidaciones y Electronica** en el **Instituto Politecnico Nacional**. Trabajo principalmente con **Python** y utilizo **LaTeX** para la creación de documentación y reportes técnicos. Me interesa el desarrollo de software y la creación de proyectos que integren programación con conceptos científicos.
+Soy estudiante de **Ingeniería en Comunidaciones y Electronica** en el **Instituto Politecnico Nacional (IPN)**. Trabajo principalmente con **Python** y utilizo **LaTeX** para la creación de documentación y reportes técnicos. Me interesa el desarrollo de software y la creación de proyectos que integren programación con conceptos científicos.
 
 En este perfil encontrarás prácticas, proyectos académicos que realizo mientras avanzo en mi formación como ingeniero.
 
