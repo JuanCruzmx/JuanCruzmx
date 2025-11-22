@@ -24,7 +24,7 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 
 ## Contacto
 
-📧 **Correo:** [juancruzosorio.mx@gmail.com](mailto:juancruzosorio.mx@gmail.com)
+**Correo:** [juancruzosorio.mx@gmail.com](mailto:juancruzosorio.mx@gmail.com)
 
 ---
 
