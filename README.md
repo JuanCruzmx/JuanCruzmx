@@ -1,6 +1,6 @@
 # 💻 **¡Hola! Soy Juan Cruz**
 
-Soy estudiante del **Instituto Politécnico Nacional (IPN)** en el área de ingeniería. Trabajo principalmente con **Python** y utilizo **LaTeX** para crear documentación y reportes técnicos. Me interesa el desarrollo de software y la creación de proyectos que integren programación con conceptos científicos.
+Soy estudiante del **Instituto Politécnico Nacional (IPN)** en la carrera de **Ingeniería en Comunidaciones y Electronica**. Trabajo principalmente con **Python** y utilizo **LaTeX** para crear documentación y reportes técnicos. Me interesa el desarrollo de software y la creación de proyectos que integren programación con conceptos científicos.
 
 En este perfil encontrarás prácticas, proyectos académicos y experimentos que realizo mientras avanzo en mi formación como ingeniero.
 
@@ -8,15 +8,24 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 
 ## 🧰 Tecnologías y herramientas
 
-<img src='https://skillicons.dev/icons?i=github,git,py,c,latex,linux,vim'/>
+<div align='center'>
+    <img src='https://skillicons.dev/icons?i=github,git,py,c,latex,linux,vim'/>
+<\div>
 
 ---
+
+## Estadisticas de Github
+
+<div align='center'>
+![Stats](https://github-readme-stats.vercel.app/api?username=JuanCruzmx&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruzmx&layout=compact&theme=tokyonight&hide_border=true)
+<\div>
 
 ## 🎯 Intereses
 
 * Desarrollo de software de ingeniería
-* Interfaces gráficas con Python
-* Matemáticas y física aplicada
+* Interfaces gráficas con Python (Tkinter)
+* Matemáticas y física
 
 ---
 
@@ -26,4 +35,6 @@ En este perfil encontrarás prácticas, proyectos académicos y experimentos que
 
 ---
 
-Gracias por visitar mi perfil 👋 ¡Siempre estoy aprendiendo y construyendo algo nuevo!
+<div align='center'>
+<strong>Gracias por visitar mi perfil 👋<br>
+¡Siempre estoy aprendiendo y construyendo algo nuevo!<\strong>
