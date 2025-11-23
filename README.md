@@ -15,7 +15,7 @@ En este perfil encontrarás prácticas, proyectos académicos que realizo mientr
 ![LaTeX](https://img.shields.io/badge/LaTeX-typesetting-blue?style=for-the-badge&logo=latex)
 ![Vim](https://img.shields.io/badge/Vim-editor-brighgreen?style=for-the-badge&logo=vim)
 ![Git](https://img.shields.io/badge/Git-version-red?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/GitHub-JuanCruzmx-181717-black?syle=for-the-badge&logo=github)
+![Github](https://img.shields.io/badge/GitHub-JuanCruzmx-black?syle=for-the-badge&logo=github)
 
 
 ---
