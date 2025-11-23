@@ -8,14 +8,14 @@ En este perfil encontrarás prácticas, proyectos académicos que realizo mientr
 
 ## Tecnologías y herramientas
 
-![Python](https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python)
-![tplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange?style=for-the-badge&logo=matplotlib)
-![Numpy](https://img.shields.io/badge/Numpy-1.26-lightblue?style=for-the-badge&logo=numpy)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![tplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=matplotlib)
+![Numpy](https://img.shields.io/badge/Numpy-lightblue?style=for-the-badge&logo=numpy)
 ![C](https://img.shields.io/badge/language-blue?style=for-the-badge&logo=c)
-![LaTeX](https://img.shields.io/badge/LaTeX-typesetting-blue?style=for-the-badge&logo=latex)
-![Vim](https://img.shields.io/badge/Vim-editor-brighgreen?style=for-the-badge&logo=vim)
-![Git](https://img.shields.io/badge/Git-version-red?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/GitHub-JuanCruzmx-black?syle=for-the-badge&logo=github)
+![LaTeX](https://img.shields.io/badge/LaTeX-blue?style=for-the-badge&logo=latex)
+![Vim](https://img.shields.io/badge/Vim-brighgreen?style=for-the-badge&logo=vim)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/GitHub-black?syle=for-the-badge&logo=github)
 
 
 ---
