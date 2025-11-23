@@ -12,10 +12,10 @@ En este perfil encontrarás prácticas, proyectos académicos que realizo mientr
 ![tplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=matplotlib)
 ![Numpy](https://img.shields.io/badge/Numpy-lightblue?style=for-the-badge&logo=numpy)
 ![C](https://img.shields.io/badge/language-blue?style=for-the-badge&logo=c)
-![LaTeX](https://img.shields.io/badge/LaTeX-blue?style=for-the-badge&logo=latex)
+![LaTeX](https://img.shields.io/badge/Latex-blue?style=for-the-badge&logo=latex)
 ![Vim](https://img.shields.io/badge/Vim-brighgreen?style=for-the-badge&logo=vim)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/GitHub-black?syle=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/Github-black?syle=for-the-badge&logo=github&logo=github&logoColor=white)
 
 
 ---
