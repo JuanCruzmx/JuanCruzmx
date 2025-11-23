@@ -11,7 +11,7 @@ En este perfil encontrarás prácticas, proyectos académicos que realizo mientr
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge&logo=tkinter)
 ![tplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=matplotlib)
-![Numpy](https://img.shields.io/badge/Numpy-lightblue?style=for-the-badge&logo=numpy)
+![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
 ![C](https://img.shields.io/badge/language-blue?style=for-the-badge&logo=c)
 ![LaTeX](https://img.shields.io/badge/Latex-blue?style=for-the-badge&logo=latex)
 ![Vim](https://img.shields.io/badge/Vim-brighgreen?style=for-the-badge&logo=vim)
