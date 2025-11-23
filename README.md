@@ -8,9 +8,10 @@ En este perfil encontrarás prácticas, proyectos académicos que realizo mientr
 
 ## Tecnologías y herramientas
 
-<div align='center'>
-<img src='https://skillicons.dev/icons?i=github,git,py,c,latex,linux,vim'/>
-</div>
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-tht-dadge&logo=python)
+![tplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange?style=flat-square&logo=matplotlib)
+![Numpy](https://img.shields.io/badge/Numpy-1.26-lightgrey?style=plastic&logo=numpy)
+
 
 ---
 
