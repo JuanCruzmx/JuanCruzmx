@@ -15,7 +15,6 @@ En este perfil encontrarás prácticas, proyectos académicos que realizo mientr
 ![LaTeX](https://img.shields.io/badge/Latex-blue?style=for-the-badge&logo=latex)
 ![Vim](https://img.shields.io/badge/Vim-brighgreen?style=for-the-badge&logo=vim)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/Github-black?syle=for-the-badge&logo=github&logo=github&logoColor=white)
 
 
 ---
