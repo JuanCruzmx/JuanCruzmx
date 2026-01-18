@@ -22,7 +22,7 @@ En este perfil encontrarás prácticas, proyectos académicos que realizo mientr
 
 ## Intereses
 
-* Desarrollo de software de ingenier a.
+* Desarrollo de software de ingeniería.
 
 ---
 
