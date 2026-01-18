@@ -1,4 +1,4 @@
-# **¡Hola! Soy uan Cruz**
+# ¡Hola! SoyJuan Cruz
 
 Soy estudiante de **Ingeniería en Comunidaciones y Electronica** en el **Instituto Politecnico Nacional (IPN)**. Trabajo principalmente con **Python** y utilizo **LaTeX** para la creación de documentación y reportes técnicos. Me interesa el desarrollo de software y la creación de proctos que integren programación con conceptos científi.
 
@@ -28,7 +28,7 @@ En este perfil encontrarás prácticas, proyectos académicos que realizo mientr
 
 ## Contacto
 
-**Correo electronico:**[juancruzosorio.mx@gmail.com](mailto:juancruzosorio.mx@gmail.com)
+**Correo electronico:** [juancruzosorio.mx@gmail.com](mailto:juancruzosorio.mx@gmail.com)
 
 ---
 
