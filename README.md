@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Cruz
+# Hola Soy Juan Cruz...
 
 ---
 
