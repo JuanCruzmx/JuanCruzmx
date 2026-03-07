@@ -10,4 +10,3 @@
 
 <div align='center'>
 <strong>Gracias por visitar mi perfil<br>
-¡Siempre estoy aprendiendo y construyendo algo nuevo!</strong>
